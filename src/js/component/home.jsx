@@ -7,7 +7,7 @@ import Footer from "./Footer.jsx";
 import rigoImage from "../../img/rigo-baby.jpg";
 
 
-//create your first component
+
 const home = () => {
 	return (
 		<div className="text-center">
